@@ -8,4 +8,5 @@ ENV FOO var
 ENV KKK llll
 RUN touch pp.txt
 VOLUME /mivolumen
+
 ENTRYPOINT ["java", "-cp", "bin", "HelloWorld"]
