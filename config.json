@@ -1,9 +1,30 @@
 [
     {
         "filetype": "jpg",
-        "id": "stg",
-        "name": "STG-1",
+        "id": "stg-1",
+        "name": "STG 1",
+        "src": "/images/original/stg-1.jpg",
+        "thumb_src": "/images/thumbnail/stg-1.jpg"
+    },
+    {
+        "filetype": "jpg",
+        "id": "aeropuerto-vigo",
+        "name": "Aeropuerto Vigo",
         "src": "/images/original/aeropuerto-vigo.jpg",
         "thumb_src": "/images/thumbnail/aeropuerto-vigo.jpg"
+    },
+    {
+        "filetype": "jpg",
+        "id": "central-der",
+        "name": "Central Derecha",
+        "src": "/images/original/central-der.jpg",
+        "thumb_src": "/images/thumbnail/central-der.jpg"
+    },
+    {
+        "filetype": "jpg",
+        "id": "central-izq",
+        "name": "Central Izquierda",
+        "src": "/images/original/central-izq.jpg",
+        "thumb_src": "/images/thumbnail/central-izq.jpg"
     }
 ]
