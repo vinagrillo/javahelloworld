@@ -2,8 +2,15 @@
     {
         "filetype": "jpg",
         "id": "stg-1",
-        "name": "STG 2",
+        "name": "STG 1",
         "src": "/images/original/stg-1.jpg",
+        "thumb_src": "/images/thumbnail/stg-1.jpg"
+    },
+    {
+        "filetype": "jpg",
+        "id": "stg-2,
+        "name": "STG 2",
+        "src": "/images/original/stg-2.jpg",
         "thumb_src": "/images/thumbnail/stg-1.jpg"
     },
     {
