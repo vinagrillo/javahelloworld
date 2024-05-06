@@ -1,4 +1,5 @@
-[
+{
+	"videoBackgroundImages":[
   {
     "filetype": "jpg",
     "id": "stg-1",
@@ -35,3 +36,4 @@
     "thumb_src": "/images/thumbnail/central-izq.jpg"
   }
 ]
+}
