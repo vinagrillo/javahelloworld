@@ -34,6 +34,13 @@
     "name": "Central Izquierda",
     "src": "/evergreen-assets/backgroundimages/images/original/central-izq.jpg",
     "thumb_src": "/evergreen-assets/backgroundimages/images/thumbnail/central-izq.jpg"
+  },
+  {
+    "filetype": "jpg",
+    "id": "nueva-sede-1",
+    "name": "Nueva Sede 1",
+    "src": "/evergreen-assets/backgroundimages/images/original/nueva-sede-1.jpg",
+    "thumb_src": "/evergreen-assets/backgroundimages/images/thumbnail/nueva-sede-1.jpg"
   }
 ]
 }
